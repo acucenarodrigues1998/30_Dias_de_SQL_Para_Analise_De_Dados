@@ -2,7 +2,7 @@
 
 Esse repositório foi criado para armazenar todo o material produzido durante a realização do desafio pessoal "30 dias de SQL para Análise de Dados". Para a realização desse desafio, está sendo utilizado o tutorial encontrado no site mode.com, que fornece uma tutorial dividido em níveis básico, intermediário, avançado e 3 pequenos projetos para treinar os conhecimentos. Além do material, o site fornece uma plataforma com várias bases de dados disponíveis para o treinamento. 
 
-O plano inicial para o projeto são 30 dias, ao acabar o conteúdo, o objetivo é incluir algum projeto mais completo para aplicar os conhecimentos. 
+O plano inicial para o projeto são 30 dias, se finalizar o conteúdo com sobra de tempo, podemos incluir algumas práticas no [HackerRank](https://www.hackerrank.com/domains/sql).
 
 ## Módulo Básico:
 
@@ -46,10 +46,10 @@ Link para o módulo: [SQL Intermediário](https://mode.com/sql-tutorial/intro-to
 ### Dia 04 - 17/07/2020
 
 * Funções de Agregação
-  * COUNT
-  * SUM
-  * MIN/MAX
-  * AVG
+  * [COUNT](https://github.com/acucenarodrigues1998/30_Dias_de_SQL_Para_Analise_De_Dados/blob/master/Dia_04/COUNT.SQL)
+  * [SUM](https://github.com/acucenarodrigues1998/30_Dias_de_SQL_Para_Analise_De_Dados/blob/master/Dia_04/SUM.SQL)
+  * [MIN/MAX](https://github.com/acucenarodrigues1998/30_Dias_de_SQL_Para_Analise_De_Dados/blob/master/Dia_04/MIN_MAX.SQL)
+  * [AVG](https://github.com/acucenarodrigues1998/30_Dias_de_SQL_Para_Analise_De_Dados/blob/master/Dia_04/AVG.SQL)
 
 ### Dia 05 - 18/07/2020
 
