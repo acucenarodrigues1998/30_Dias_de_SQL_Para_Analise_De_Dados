@@ -53,28 +53,29 @@ Link para o módulo: [SQL Intermediário](https://mode.com/sql-tutorial/intro-to
 
 ### Dia 05 - 18/07/2020
 
-* GROUP BY
-* HAVING
-* CASE
-* DISTINCT
+* [GROUP BY](https://github.com/acucenarodrigues1998/30_Dias_de_SQL_Para_Analise_De_Dados/blob/master/Dia_05/GROUP_BY.SQL)
+* [HAVING](https://github.com/acucenarodrigues1998/30_Dias_de_SQL_Para_Analise_De_Dados/blob/master/Dia_05/HAVING.SQL)
 
 ### Dia 06 - 19/07/2020
 
+* CASE
+* DISTINCT
 * Joins
   * INNER JOIN
-* Outer Joins
-  * LEFT JOIN
-  * RIGHT JOIN
+
 
 ## Dia 07 - 20/07/2020
 
 * Outer Joins
+  * LEFT JOIN
+  * RIGHT JOIN
   * Joins usando WHERE ou ON
   * FULL OUTER JOIN
-* UNION
+
 
 ## Dia 08 - 21/07/2020
 
+* UNION
 * Joins com operadores de comparação
 * Joins em múltiplas chaves
 * Self Joins
