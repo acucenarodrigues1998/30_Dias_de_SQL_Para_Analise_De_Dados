@@ -85,13 +85,33 @@ Link para o módulo: [SQL Intermediário](https://mode.com/sql-tutorial/intro-to
 
 Conteúdo: 
 
-* Tipos de dados, formato de data, organização dos dados, funções de sequencia de caracteres para limpar dados, subconsultas, funções de janela, consultas com ajuste de desempenho, girando dados.
+* Tipos de dados, formato de data, data wrangling, limpeza de dados, subconsultas, funções de janela, consultas com ajuste de desempenho, pivotando dados.
 
 ### Dia 10 - 23/07/2020
 
+* Tipos de Dados
+* Formato de Data
+* Data Wrangling
+
 ### Dia 11 - 24/07/2020
 
+* Limpeza de Dados
+
 ### Dia 12 - 25/07/2020
+
+* Subconsultas
+
+### Dia 13 - 26/07/2020
+
+* Funções de janela
+
+### Dia 14 - 27/07/2020
+
+* Consultas com ajuste de desempenho
+
+### Dia 15 - 28/07/2020
+
+* Pivotando dados
 
 ## Treinamento em SQL Analytics
 
@@ -101,23 +121,49 @@ Casos:
 * Noções básicas em pesquisa
 * Validando resultados de um teste A/B
 
-### Dia 13 - 26/07/2020
-
-### Dia 14 - 27/07/2020
-
-### Dia 15 - 28/07/2020
-
 ### Dia 16 - 29/07/2020
+
+* Uma Queda no engajamento
 
 ### Dia 17 - 30/07/2020
 
+* Uma Queda no engajamento
+
 ### Dia 18 - 31/07/2020
 
-## Exercícios Extras
+* Noções básicas em pesquisa
 
 ### Dia 19 - 01/08/2020
 
+* Noções básicas em pesquisa
+
 ### Dia 20 - 02/08/2020
+
+* Validando resultados de um teste A/B
+
+### Dia 21 - 03/08/2020
+
+* Validando resultados de um teste A/B
+
+## Exercícios Extras
+
+### Dia 22 - 04/08/2020
+
+### Dia 23 - 05/08/2020
+
+### Dia 24 - 06/08/2020
+
+### Dia 25 - 07/08/2020
+
+### Dia 26 - 08/08/2020
+
+### Dia 27 - 09/08/2020
+
+### Dia 28 - 10/08/2020
+
+### Dia 29 - 11/08/2020
+
+### Dia 30 - 12/08/2020
 
 
 
