@@ -33,7 +33,7 @@ Link para o módulo: [SQL Básico](https://mode.com/sql-tutorial/introduction-to
 
 ### Dia 03 - 16/07/2020
 
-* [GROUP BY](https://github.com/acucenarodrigues1998/30_Dias_de_SQL_Para_Analise_De_Dados/blob/master/Dia_03/ORDER_BY.SQL)
+* [ORDER BY](https://github.com/acucenarodrigues1998/30_Dias_de_SQL_Para_Analise_De_Dados/blob/master/Dia_03/ORDER_BY.SQL)
 
 ## Módulo Intermediário
 
@@ -58,13 +58,15 @@ Link para o módulo: [SQL Intermediário](https://mode.com/sql-tutorial/intro-to
 
 ### Dia 06 - 19/07/2020
 
-* CASE
-* DISTINCT
+* [CASE](https://github.com/acucenarodrigues1998/30_Dias_de_SQL_Para_Analise_De_Dados/blob/master/Dia_06/CASE.SQL)
+
+### Dia 07 - 20/07/2020
+
+* [DISTINCT](https://github.com/acucenarodrigues1998/30_Dias_de_SQL_Para_Analise_De_Dados/blob/master/Dia_07/DISTINCT.SQL)
 * Joins
-  * INNER JOIN
+  * [INNER JOIN](https://github.com/acucenarodrigues1998/30_Dias_de_SQL_Para_Analise_De_Dados/blob/master/Dia_07/INNER_JOIN.SQL)
 
-
-## Dia 07 - 20/07/2020
+### Dia 08 - 21/07/2020
 
 * Outer Joins
   * LEFT JOIN
@@ -72,13 +74,52 @@ Link para o módulo: [SQL Intermediário](https://mode.com/sql-tutorial/intro-to
   * Joins usando WHERE ou ON
   * FULL OUTER JOIN
 
-
-## Dia 08 - 21/07/2020
+### Dia 09 - 22/07/2020
 
 * UNION
 * Joins com operadores de comparação
 * Joins em múltiplas chaves
 * Self Joins
+
+## Módulo Avançado
+
+Conteúdo: 
+
+* Tipos de dados, formato de data, organização dos dados, funções de sequencia de caracteres para limpar dados, subconsultas, funções de janela, consultas com ajuste de desempenho, girando dados.
+
+### Dia 10 - 23/07/2020
+
+### Dia 11 - 24/07/2020
+
+### Dia 12 - 25/07/2020
+
+## Treinamento em SQL Analytics
+
+Casos: 
+
+* Uma Queda no engajamento
+* Noções básicas em pesquisa
+* Validando resultados de um teste A/B
+
+### Dia 13 - 26/07/2020
+
+### Dia 14 - 27/07/2020
+
+### Dia 15 - 28/07/2020
+
+### Dia 16 - 29/07/2020
+
+### Dia 17 - 30/07/2020
+
+### Dia 18 - 31/07/2020
+
+## Exercícios Extras
+
+### Dia 19 - 01/08/2020
+
+### Dia 20 - 02/08/2020
+
+
 
 
 
