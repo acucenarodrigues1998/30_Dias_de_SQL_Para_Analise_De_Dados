@@ -1,8 +1,8 @@
-# 30_Dias_de_SQL_Para_Analise_De_Dados
+# 30 Dias de SQL para Análise de Dados
 
-Esse repositório foi criado para armazenar todo o material produzido durante a realização do desafio pessoal "30 dias de SQL para Análise de Dados". Para a realização desse desafio, está sendo utilizado o tutorial encontrado no site mode.com, que fornece uma tutorial dividido em níveis básico, intermediário, avançado e 3 pequenos projetos para treinar os conhecimentos. Além do material, o site fornece uma plataforma com várias bases de dados disponíveis para o treinamento. 
+Esse repositório foi criado para armazenar todo o material produzido durante a realização do desafio "30 dias de SQL para Análise de Dados". Para a realização desse desafio, está sendo utilizado o tutorial encontrado no site mode.com, que fornece uma tutorial dividido em níveis básico, intermediário, avançado e 3 pequenos projetos para treinar os conhecimentos. Além do material, o site fornece uma plataforma com várias bases de dados disponíveis para o treinamento. 
 
-O plano inicial para o projeto são 30 dias, se finalizar o conteúdo com sobra de tempo, podemos incluir algumas práticas no [HackerRank](https://www.hackerrank.com/domains/sql).
+O plano inicial para o projeto são 30 dias, se o conteúdo for concluído com sobra de tempo, podemos incluir algumas práticas no [HackerRank](https://www.hackerrank.com/domains/sql).
 
 ## Módulo Básico:
 
@@ -63,7 +63,7 @@ Link para o módulo: [SQL Intermediário](https://mode.com/sql-tutorial/intro-to
 ### Dia 07 - 20/07/2020
 
 * [DISTINCT](https://github.com/acucenarodrigues1998/30_Dias_de_SQL_Para_Analise_De_Dados/blob/master/Dia_07/DISTINCT.SQL)
-* Joins
+* [Joins](https://github.com/acucenarodrigues1998/30_Dias_de_SQL_Para_Analise_De_Dados/blob/master/Dia_07/joins.SQL)
   * [INNER JOIN](https://github.com/acucenarodrigues1998/30_Dias_de_SQL_Para_Analise_De_Dados/blob/master/Dia_07/INNER_JOIN.SQL)
 
 ### Dia 08 - 21/07/2020
