@@ -76,6 +76,12 @@ Link para o módulo: [SQL Intermediário](https://mode.com/sql-tutorial/intro-to
 
 ### Dia 09 - 22/07/2020
 
+* Outer Joins
+  * Joins usando WHERE ou ON
+  * FULL OUTER JOIN
+
+### Dia 10 - 23/07/2020
+
 * UNION
 * Joins com operadores de comparação
 * Joins em múltiplas chaves
@@ -87,29 +93,29 @@ Conteúdo:
 
 * Tipos de dados, formato de data, data wrangling, limpeza de dados, subconsultas, funções de janela, consultas com ajuste de desempenho, pivotando dados.
 
-### Dia 10 - 23/07/2020
+### Dia 11 - 24/07/2020
 
 * Tipos de Dados
 * Formato de Data
 * Data Wrangling
 
-### Dia 11 - 24/07/2020
+### Dia 12 - 25/07/2020
 
 * Limpeza de Dados
 
-### Dia 12 - 25/07/2020
+### Dia 13 - 26/07/2020
 
 * Subconsultas
 
-### Dia 13 - 26/07/2020
+### Dia 14 - 27/07/2020
 
 * Funções de janela
 
-### Dia 14 - 27/07/2020
+### Dia 15 - 28/07/2020
 
 * Consultas com ajuste de desempenho
 
-### Dia 15 - 28/07/2020
+### Dia 16 - 29/07/2020
 
 * Pivotando dados
 
@@ -121,17 +127,13 @@ Casos:
 * Noções básicas em pesquisa
 * Validando resultados de um teste A/B
 
-### Dia 16 - 29/07/2020
-
-* Uma Queda no engajamento
-
 ### Dia 17 - 30/07/2020
 
 * Uma Queda no engajamento
 
 ### Dia 18 - 31/07/2020
 
-* Noções básicas em pesquisa
+* Uma Queda no engajamento
 
 ### Dia 19 - 01/08/2020
 
@@ -139,15 +141,17 @@ Casos:
 
 ### Dia 20 - 02/08/2020
 
-* Validando resultados de um teste A/B
+* Noções básicas em pesquisa
 
 ### Dia 21 - 03/08/2020
 
 * Validando resultados de um teste A/B
 
-## Exercícios Extras
-
 ### Dia 22 - 04/08/2020
+
+* Validando resultados de um teste A/B
+
+## Exercícios Extras
 
 ### Dia 23 - 05/08/2020
 
