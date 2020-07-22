@@ -69,10 +69,8 @@ Link para o módulo: [SQL Intermediário](https://mode.com/sql-tutorial/intro-to
 ### Dia 08 - 21/07/2020
 
 * Outer Joins
-  * LEFT JOIN
-  * RIGHT JOIN
-  * Joins usando WHERE ou ON
-  * FULL OUTER JOIN
+  * [LEFT JOIN](https://github.com/acucenarodrigues1998/30_Dias_de_SQL_Para_Analise_De_Dados/blob/master/Dia_08/LEFT_JOIN.SQL)
+  * [RIGHT JOIN](https://github.com/acucenarodrigues1998/30_Dias_de_SQL_Para_Analise_De_Dados/blob/master/Dia_08/RIGHT_JOIN.SQL)
 
 ### Dia 09 - 22/07/2020
 
